@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-# Assalomu alaykum 👋 Men Erkin
-
 ## 🔐 About Me
 - Junior Web Pentester
 - SQL Injection, XSS, Authentication bypass
